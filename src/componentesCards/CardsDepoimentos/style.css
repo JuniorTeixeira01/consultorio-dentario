@@ -1,0 +1,6 @@
+.secao-card{
+    width: 250px;
+    height: 300px;
+    border: 1px solid gray;
+    background-color: rgb(173, 214, 132);
+}

@@ -1,0 +1,23 @@
+.secao-beneficios{
+    text-align: center;
+    padding-top: 20px;
+}
+.secao-beneficios h1{
+    color: rgb(107, 102, 102);
+}
+.secao-beneficios span{
+    color: rgb(36, 34, 34);
+}
+.secao-beneficios img{
+    width: 500px;
+}
+.container-beneficios{
+    display: flex;
+    font-size: 15px;
+    justify-content: center;
+    gap: 40px;
+}
+.container-beneficios div{
+    width: 310px;
+    text-align: left;
+}

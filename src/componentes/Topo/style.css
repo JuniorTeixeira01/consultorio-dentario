@@ -1,0 +1,14 @@
+.container-topo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(20, 20, 151);
+    width: 100%;
+    height: 100px;
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
+.container-topo img{
+    width: 50px;
+    padding-right: 20px;
+}

@@ -1,0 +1,33 @@
+.secao-apresentacao{
+    background-color: rgb(20, 20, 151);
+    text-align: center;
+    color: #fff;
+    height: 300px;
+}
+.secao-apresentacao span{
+    color: darkgoldenrod;
+}
+.secao-apresentacao h2{
+    color: rgb(226, 168, 19);
+}
+.container-apresentacao{
+  display: flex;
+  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  margin: 0 auto;
+}
+.primeiro-bloco, .segundo-bloco{
+    display: flex;
+    flex-direction: column;
+}
+.primeiro-bloco div, .segundo-bloco div{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.container-apresentacao img{
+    width: 40px;
+    
+}

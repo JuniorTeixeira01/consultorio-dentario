@@ -1,0 +1,39 @@
+.container-informacao{
+    width: 60%;
+    padding-top: 90px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    text-align: justify;
+    text-align: center;
+}
+.container-doutores{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.informacoes-doutores{
+    width: 90%;
+    height: 70px;
+    border: 2px solid rgb(207, 205, 205);
+    display: flex;
+    margin: 0 auto;
+}
+.informacoes-doutores img{
+    width: 80px;
+    height: 100%;
+}
+.container-texto{
+    text-align: center;
+    font-size: 12px;
+    padding-top: 20px;
+}
+.informacoes-doutores p{
+    margin: 0;
+    color: rgb(0, 0, 0);
+}
+.container-contato{
+    text-align: center;
+    font-size: 14px;
+    padding-top: 30px;
+}

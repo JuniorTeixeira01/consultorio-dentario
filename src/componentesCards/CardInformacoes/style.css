@@ -1,0 +1,25 @@
+.secao-informacao{
+    width: 250px;
+    height: 300px;
+    border: 1px solid gray;
+    background-color: rgb(199, 199, 199);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+.secao-informacao div {
+    width: 90%;
+    height: 220px;
+    background-color: #fff;
+    margin-bottom: 10px;
+    text-align: center;
+    text-align: justify;
+    padding-top: 30px;
+    border-radius: 15px;
+}
+.secao-informacao h2{
+
+    color: rgb(99, 90, 90);
+}

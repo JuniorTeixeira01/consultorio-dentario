@@ -1,0 +1,22 @@
+.secao-depoimentos h2{
+    text-align: center;
+    padding-top: 40px;
+    color: rgb(122, 117, 117);
+}
+.secao-depoimentos span{
+    color: rgb(41, 39, 39);
+}
+.depoimentos-cards{
+    width: 60%;
+    padding-top: 40px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+    font-size: 15px;
+    text-align: justify;
+    text-align: center;
+}
+.depoimentos-cards img{
+    width: 100%;
+    height: 50%;
+}
